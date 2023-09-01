@@ -29,9 +29,13 @@
 
 		"outerColor": [60,40,20],
 		"innerColor": [45,90,35],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Village","Village 02","Village 03","Village 04","Villge 05","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+		"uniqueName": "Peaceful Living",
+		"uniques": [
+			"[+33]% Great Person generation [in all cities]",
+			"[+3 Happiness] [in all cities]"
+		],
+		"cities": ["The Village","Village 02","Village 03","Village 04","Villge 05","Village 06","Village 07","Village 08","Village 09",
+			"Village 10","Village 11","Village 12","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 	}
