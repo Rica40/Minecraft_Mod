@@ -3,10 +3,14 @@
 		"name": "Weapon Smith",
 		"replaces": "Forge",
 		"uniqueTo": "Villagers",
-		"maintenance": 1,
+		"maintenance": 2,
 		"hurrycostModifier": 25,
 		"requiredImprovedNearbyResources": ["Iron"],
-		"requiredTech": "MetalCasting"
+		"requiredTech": "MetalCasting",
+		"uniques": ["[+15]% Production when constructing [Spaceship part] units [in this city]",
+			"[+30]% Production when constructing [Land] units [in this city]",
+			"[+1 Production] from [Iron] tiles [in this city]"]
+
 	},
 	{
 		"name": "Well",
