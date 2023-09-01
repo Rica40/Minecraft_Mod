@@ -6,7 +6,7 @@
 		"maintenance": 2,
 		"hurrycostModifier": 25,
 		"requiredImprovedNearbyResources": ["Iron"],
-		"requiredTech": "MetalCasting",
+		"requiredTech": "Metalcasting",
 		"uniques": ["[+15]% Production when constructing [Spaceship part] units [in this city]",
 			"[+30]% Production when constructing [Land] units [in this city]",
 			"[+2 Production] from [Iron] tiles [in this city]"]
