@@ -3,7 +3,7 @@
 		"name": "Iron Golem",
 		"unitType": "Sword",
 		"uniqueTo": "Villagers",
-		"replaces": "Long Swordsman",
+		"replaces": "Swordsman",
 		"movement": 2,
 		"strength": 17,
 		"cost": 85,
