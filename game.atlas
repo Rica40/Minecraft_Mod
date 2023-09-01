@@ -5,19 +5,19 @@ format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Weapon Smith
-xy: 270, 106
+xy: 246, 99
 size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Well
-xy: 458, 106
+xy: 437, 105
 size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Iron Golem
-xy: 102, 93
+xy: 94, 87
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
